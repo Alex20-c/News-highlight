@@ -43,12 +43,11 @@ This is the live .[ Click for the demo](https://alex-news.herokuapp.com/)
      </tr></table>
 
 ## Setup/Installation requirements
-
- 1.Clone or download and unzip the repository from github,https://github.com/Alex20-c/News-highlight.
- 2.You can use this command (git clone my link) to clone the project to your machine if you have git.
- 3.cd into the project folder and open in text editor.
- 4.Then run chmod +x start.sh on your project directory.
- 5.Run  ./start.sh to launch the program.
+1.Clone or download and unzip the repository from github,https://github.com/Alex20-c/News-highlight.
+2.You can use this command (git clone my link) to clone the project to your machine if you have git.
+3.cd into the project folder and open in text editor.
+4.Then run chmod +x start.sh on your project directory.
+5.Run  ./start.sh to launch the program.
 
 ## Technologies Used
 
