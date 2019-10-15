@@ -1,0 +1,5 @@
+export SOURCE_API_KEY=50f742a5c2da46bcb521878f1d55287e
+export SECRET_KEY=d308e29d8c734f1ca1f4b6deee44ae4f
+
+
+python3.6 manage.py server
